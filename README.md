@@ -2,8 +2,6 @@
 
 The project was created during the project weeks 2015 in the Course Johnny-Five-Is-Alive at the University of Applied Sciences Potsdam, led by Fabian Morón Zirfas. The goal of the 2-week course was to implement an IOT project (Internet of Things) of your choice. There I got an insight into the framework of Johnny-Five, Node.js and Git. However, for the final implementation of the project, we could choose another technology
 
-![](images/slime_mold.png)
-
 ## The Project
 During the semester break I already had the idea for such a project on my mind, but I could not find the time to actually implement it. So I took the chance to combine this with the course.
 
@@ -50,9 +48,11 @@ In order to be able to concentrate on the hardware, I used the free service IFTT
 
 4. Create a new DO-Particle Recipes
 
-5. IFTTT should automatically display the function name in the list:> spin on "Your Photon“
+5. IFTTT should automatically display the function name in the list:
+> spin on "Your Photon“
 
-6. Then the function input must be specified:> on
+6. Then the function input must be specified:
+> on
 
 ![](images/front.jpg)
 
