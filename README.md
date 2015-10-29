@@ -11,7 +11,7 @@ Since my cats are quite lazy, I had the vision to build a gadget that would make
 
 ![](images/mockup.png)
 
-How it works:
+### How it works
 
 1. A Button on the smartphone triggers the Gadget
 2. A Piezo makes a sound, so that the treat spin attracts the cats’ attention and they know that something is about to happen
@@ -51,10 +51,10 @@ In order to be able to concentrate on the hardware, I used the free service IFTT
 4. Create a new DO-Particle Recipes
 
 5. IFTTT should automatically display the function name in the list:
-spin on "Your Photon“
+  spin on "Your Photon“
 
-6.	Then the function input must be specified:
-on
+6. Then the function input must be specified:
+  on
 
 ![](images/front.jpg)
 
