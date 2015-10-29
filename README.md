@@ -50,11 +50,9 @@ In order to be able to concentrate on the hardware, I used the free service IFTT
 
 4. Create a new DO-Particle Recipes
 
-5. IFTTT should automatically display the function name in the list:
-  spin on "Your Photon“
+5. IFTTT should automatically display the function name in the list:    spin on "Your Photon“
 
-6. Then the function input must be specified:
-  on
+6. Then the function input must be specified:    on
 
 ![](images/front.jpg)
 
