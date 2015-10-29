@@ -1,6 +1,6 @@
 # TreatSpin
 
-The project was created during the project weeks 2015 in the Course Johnny-Five-Is-Alive at the University of Applied Sciences Potsdam, led by Fabian Morón Zirfas. The goal of the 2-week course was to implement an IOT project (Internet of Things) of your choice. There I got an insight into the framework of Johnny-Five, Node.js and Git. However, for the final implementation of the project, we could choose another technology
+The project was created during the project weeks 2015 in the Course Johnny-Five-Is-Alive at the University of Applied Sciences Potsdam, led by Fabian Morón Zirfas. The goal of the 2-week course was to implement an IOT project (Internet of Things) of your choice. There I got an insight into the framework of Johnny-Five, Node.js and Git. However, for the final implementation of the project, we could choose another technology.
 
 ## The Project
 During the semester break I already had the idea for such a project on my mind, but I could not find the time to actually implement it. So I took the chance to combine this with the course.
@@ -24,7 +24,7 @@ I am using the following hardware:
 *	Motraxx DC-Motor 3V/DC
 *	Sparkfun Servo (Micro Size)
 *	Potentiometer
-*	Diverse Kabel
+*	Various cables
 *	Bipolar Transistor
 *	Battery Box
 
@@ -36,7 +36,7 @@ Unfortunately there were complications with the implementation of the case and t
 
 ## IFTTT
 
-In order to be able to concentrate on the hardware, I used the free service IFTTT, thus I did not have to program an app for the trigger by myself,. The IFTTT allows a user to connect different services with each other. Plus, it is possible to use a DO-Button to trigger a defined function on the Particle Photon. Therefore, it is the ideal and most simple solution for my project.
+In order to be able to concentrate on the hardware, I used the free service IFTTT, thus I did not have to program an app for the trigger by myself. The IFTTT allows a user to connect different services with each other. Plus, it is possible to use a DO-Button to trigger a defined function on the Particle Photon. Therefore, it is the ideal and most simple solution for my project.
 
 ### Instructions
 
